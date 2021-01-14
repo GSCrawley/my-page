@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Gideon S Crawley",
-    "occupation":"Computer Science undergrad Student,",
-    "description":"seeking an internship for Summer 2021.",
+    "occupation":"Computer Science Undergrad,",
+    "description":"seeking an internship for Summer 2021",
     "image":"profilepic.jpg",
-    "bio":"",
+    "bio":"Currently orchestrating a major paradigm shift in my life and career, and am really enjoying learning to code; It's incredibly empowering! I'm looking forward to putting these skills to use helping make a difference in the world.",
     "contactmessage":"I'd love to hear from you!",
     "email": "gscrawley@gmail.com",
     "phone": "646-667-5520",
@@ -44,13 +44,13 @@
     ]
   },
   "resume":{
-    "skillmessage":"",
+    "skillmessage":"While my primary track is Front-End Web Development, I’m also learning to build and maintain the back end. The main technologies I've been learning are listed below in order of proficiency. To my surprise, I'm also discovering that I've got some pretty good management skills!",
     "education":[
       {
         "school":"Make School, San Francisco",
         "degree":"Bachelor's in Computer Scienc",
         "graduated":"August 2021",
-        "description":"I'm currently a full-time undergrad student at Make School, pursuing my Bachelor's degree in full-stack engineering. Make School prepares students for work in the Tech Industry by teaching us to work collaboratively, with a strong emphasis on Product Development and UX."      
+        "description":"A full-time undergrad student training to be a full stack software engineer. Make School prepares students for work in today's Tech Industry by teaching us to work collaboratively on real-world projects, experiencing every stage of the Software Development LifeCycle, with a strong emphasis on Product Development and User Experience."      
         },
       {
         "school":"CÉGEP Vanier, Montreal",
@@ -64,7 +64,7 @@
         "company":"Various temp, gig, and freelance roles",
         "title":"Web Developer / Musician / Delivery Driver",
         "years":"2010 - Present",
-        "description":"Supported myself playing music and working in the gig economy, delivering for Doordash, Caviar, Uber Eats."
+        "description":"Supplemented my Social Security Disability income playing music and working in the gig economy, delivering for Doordash, Caviar, Uber Eats."
       },
       {
         "company":"SANS Consulting Services, Inc, New York City",
@@ -133,12 +133,6 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Redux Tetris",
-        "category":"A simple Tetris grid puzzle game I built using React with Redux to map state. Hosted on Firebase and using Firebase API for User Authentication",
-        "image":"game.jpg",
-        "url":"http://tetris-auth.web.app/"
-      },
-      {
         "title":"OmniConnx",
         "category":"Early MVP for a custom social media site for the Europeean medical community.",
         "image":"omni.png",
@@ -149,13 +143,31 @@
         "category": "Gideon getting in some rare Uncle Time with 2-year old Kaleb, NYC 2013",
         "image": "./cardfront.jpg",
         "url": "https://gscrawley.github.io/forKaleb/ "
-      },  
+      },          
+      {
+        "title":"Redux Tetris",
+        "category":"A simple Tetris grid puzzle game I built using React with Redux to map state. Hosted on Firebase and using Firebase API for User Authentication",
+        "image":"game.jpg",
+        "url":"http://tetris-auth.web.app/"
+      },                      
       {
         "title":"Leah & the Infinite Loop",
         "category":"Personal Website I designed for a friend, using HTML, CSS, and Bootstrap",
         "image":"./Leah.png",
         "url":"https://gscrawley.github.io/Leah/"
-      },                                                                                                                      
+      },                               
+      { 
+        "title":"Stylin Stylesheet",
+        "category":"A rudimentary CSS stylesheet built using SASS and including every generic component used in a website",
+        "image":"./stylesheet.jpg",
+        "url":"http://gscrawley.github.io/stylin_styles/"
+      },
+      { 
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
+      },                                                         
       {
         "title":"A Colorful Breakout Game",
         "category":"A breakout game in JavaScript; with complimentary colors aquired from random colors",
@@ -168,6 +180,7 @@
         "image":"./MyOpenMic.png",
         "url":"http://myopenmic-gsc.herokuapp.com/"
       },
+      
       {
         "title":"Rock Star Trivia",
         "category":"A short visual quiz built using Vanilla JavaScript, HTML5 and CSS.",
@@ -179,12 +192,6 @@
         "category":"I built this website for a friend and her band, using HTML, CSS and Bootstrap.",
         "image":"./velcro.png",
         "url":"https://gscrawley.github.io/velcro/"
-      },
-      {
-        "title":"Stylin Stylesheet",
-        "category":"A rudimentary CSS stylesheet built using SASS and including every generic component used in a website",
-        "image":"./stylesheet.jpg",
-        "url":"http://gscrawley.github.io/stylin_styles/"
       }
     ]
   },
