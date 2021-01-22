@@ -205,8 +205,8 @@ ul#nav li.current a { color: #FFF; }
    line-height: 30px;
    color: #7A7A7A;
 }
-#about .profile-pic {
-   position: relative;
+#about .profilepic {
+   position: ;
    width: 120px;
    height: 120px;
    border-radius: 100%;
@@ -434,7 +434,7 @@ ul#nav li.current a { color: #FFF; }
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
    background: #fff;
-   overflow: hidden;
+   overflow :hidden;
    position: relative;
 
    -webkit-transition: all 0.3s ease-in-out;

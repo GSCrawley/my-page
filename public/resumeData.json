@@ -3,7 +3,7 @@
     "name":"Gideon S Crawley",
     "occupation":"Computer Science Undergrad,",
     "description":"seeking an internship for Summer 2021",
-    "image":"profilepic.jpg",
+    "image":"../images/profilepic.jpg",
     "bio":"Currently orchestrating a major paradigm shift in my life and career, and am really enjoying learning to code; It's incredibly empowering! I'm looking forward to putting these skills to use helping make a difference in the world.",
     "contactmessage":"I'd love to hear from you!",
     "email": "gscrawley@gmail.com",
@@ -141,7 +141,7 @@
       {
         "title": "Card for Kaleb",
         "category": "Gideon getting in some rare Uncle Time with 2-year old Kaleb, NYC 2013",
-        "image": "./cardfront.jpg",
+        "image": "cardfront.jpg",
         "url": "https://gscrawley.github.io/forKaleb/ "
       },          
       {
@@ -153,13 +153,13 @@
       {
         "title":"Leah & the Infinite Loop",
         "category":"Personal Website I designed for a friend, using HTML, CSS, and Bootstrap",
-        "image":"./Leah.png",
+        "image":"Leah.png",
         "url":"https://gscrawley.github.io/Leah/"
       },                               
       { 
         "title":"Stylin Stylesheet",
         "category":"A rudimentary CSS stylesheet built using SASS and including every generic component used in a website",
-        "image":"./stylesheet.jpg",
+        "image":"stylesheet.jpg",
         "url":"http://gscrawley.github.io/stylin_styles/"
       },
       { 
@@ -171,26 +171,26 @@
       {
         "title":"A Colorful Breakout Game",
         "category":"A breakout game in JavaScript; with complimentary colors aquired from random colors",
-        "image":"./Breakout.png",
+        "image":"Breakout.png",
         "url":"http://gscrawley.github.io/breakout/dist"
       },
       {
         "title":"My Open Mic",
         "category":"A site for amateur musicians to post videos of their performances; backend built in Python, front-end HTML5 and CSS.",
-        "image":"./MyOpenMic.png",
+        "image":"MyOpenMic.png",
         "url":"http://myopenmic-gsc.herokuapp.com/"
       },
       
       {
         "title":"Rock Star Trivia",
         "category":"A short visual quiz built using Vanilla JavaScript, HTML5 and CSS.",
-        "image":"./rockstartrivia.png",
+        "image":"rockstartrivia.png",
         "url":"http://gscrawley.github.io/visual_quiz/"
       },
       {
         "title":"10% Velcro",
         "category":"I built this website for a friend and her band, using HTML, CSS and Bootstrap.",
-        "image":"./velcro.png",
+        "image":"velcro.png",
         "url":"https://gscrawley.github.io/velcro/"
       }
     ]
