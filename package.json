@@ -2,7 +2,7 @@
   "homepage": "gideoncrawley.herokuapp.com",
   "name": "my-page",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "engines": {
     "npm": "6.14.8",
     "node": "14.15.0"
